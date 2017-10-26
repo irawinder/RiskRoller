@@ -14,3 +14,9 @@ Rules:
 5. Each dice pair between an attacker and defended determines the loss of an army unit:  
    - If the attacker's die is LARGER THAN the defender's die, then the defender loses an army unit.
    - If the defender's die is LARGER THAN or EQUAL TO the attacker's die, then the attacker loses an army unit. (Defenders win ties!)
+
+# Directions
+1. Download Processing (2.2.1) - https://processing.org/download/
+2. Confirm Lastest Java is Installed https://java.com/en/download/mac_download.jsp
+3. Clone The Repository
+4. Run "RiskRoller.pde" using Processing Application
