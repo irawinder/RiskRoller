@@ -1,6 +1,5 @@
 # RiskRoller
 Ira Winder, jiw@mit.edu, 2017
-Script for empirically testing probabilities when rolling dice for board game "Risk"
 This script simulates two players rolling dice in the board game "Risk" invented by Albert Lamorisse. 
 Results are printed to console. (This script currently has no UI.)
 
